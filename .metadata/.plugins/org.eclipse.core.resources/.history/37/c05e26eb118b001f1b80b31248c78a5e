@@ -1,0 +1,5 @@
+package com.tap.acad;
+
+public @interface webservlet {
+
+}

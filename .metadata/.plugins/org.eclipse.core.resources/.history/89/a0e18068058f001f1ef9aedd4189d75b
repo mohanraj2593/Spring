@@ -1,0 +1,5 @@
+package com.tap.factory;
+
+public class VehicleFactory {
+
+}

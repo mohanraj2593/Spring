@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/SecondJdbcApp/src/com/tap/create/GetDataTable.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.tap.create.GetDataTable"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="SecondJdbcApp"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="SecondJdbcApp"/>
+</launchConfiguration>

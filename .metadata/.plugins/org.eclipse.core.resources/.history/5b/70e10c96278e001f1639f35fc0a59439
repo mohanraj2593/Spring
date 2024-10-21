@@ -1,0 +1,33 @@
+package com.tap.acad;
+
+import jakarta.servlet.ServletException;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+/**
+ * Servlet implementation class addEmployee
+ */
+//@WebServlet("/addEmployee")
+public class addEmployee extends HttpServlet {
+	String INSERT="insert into employee(empname,desig,salary,email,password) values(?,?,?,?)";
+	Connection con;
+@Override
+public void init() throws ServletException {
+	try {
+		Class.forName("com.mysql.cj.jdbc.Driver");
+		con=DriverManager.getConnection("jdbc:mysql://localhost:3306/sepjee","root","mohanraj@123");
+	} catch (Exception e) {
+		
+		e.printStackTrace();
+	}
+}
+@Override
+	protected void service(HttpServletRequest arg0, HttpServletResponse arg1) throws ServletException, IOException {
+		PreparedStatement pstmt = con.preparedStatement(INSERT);
+	}
+}

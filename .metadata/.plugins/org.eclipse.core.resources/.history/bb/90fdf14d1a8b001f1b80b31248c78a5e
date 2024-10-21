@@ -1,0 +1,10 @@
+package com.tap.acad.model;
+
+public class employee {
+private int empid;
+private String empname;
+private String desig;
+private int salary;
+private String email;
+private String password;
+}
