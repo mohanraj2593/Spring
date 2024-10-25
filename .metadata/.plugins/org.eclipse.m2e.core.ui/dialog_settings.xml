@@ -46,18 +46,14 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.tap.crud"/>
-			<item value="com.tap.acad"/>
-			<item value="com.ops"/>
+			<item value="com.tap.emp"/>
+			<item value="com.tap"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="CRUD1"/>
-			<item value="Crud1"/>
-			<item value="Crud"/>
-			<item value="OpsProject"/>
-			<item value="UpdatePwd"/>
+			<item value="Hibernate2"/>
+			<item value="Hibernate1"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

@@ -17,4 +17,9 @@
     <fullyQualifiedTypeName name="com.tap.factory.VehicleFactory"/>
     <fullyQualifiedTypeName name="com.tap.gov.Services"/>
     <fullyQualifiedTypeName name="com.tap.gov.PrimeMinister"/>
+    <fullyQualifiedTypeName name="com.tap.manager.HibernateManager"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
+    <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+    <fullyQualifiedTypeName name="com.tap.manager.HibernamteManager"/>
+    <fullyQualifiedTypeName name="com.tap.entity.Employee"/>
 </qualifiedTypeNameHistroy>
