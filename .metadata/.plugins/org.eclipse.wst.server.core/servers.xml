@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v10.1 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v10.1 Server at localhost" name="Tomcat v10.1 Server at localhost" runtime-id="Apache Tomcat v10.1" server-type="org.eclipse.jst.server.tomcat.101" server-type-id="org.eclipse.jst.server.tomcat.101" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="9">
-    <list key="modules" value0="Login::org.eclipse.jst.jee.server:Login::jst.web::6.0" value1="UpdatePwd::org.eclipse.jst.jee.server:UpdatePwd::jst.web::2.5" value2="OpsProject::org.eclipse.jst.jee.server:OpsProject::jst.web::2.5" value3="Crud::org.eclipse.jst.jee.server:Crud::jst.web::5.0" value4="Crud3::org.eclipse.jst.jee.server:Crud3::jst.web::6.0" value5="RegisterLogin::org.eclipse.jst.jee.server:RegisterLogin::jst.web::6.0"/>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v10.1 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v10.1 Server at localhost" name="Tomcat v10.1 Server at localhost" runtime-id="Apache Tomcat v10.1" server-type="org.eclipse.jst.server.tomcat.101" server-type-id="org.eclipse.jst.server.tomcat.101" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="UpdatePwd::org.eclipse.jst.jee.server:UpdatePwd::jst.web::2.5" value1="OpsProject::org.eclipse.jst.jee.server:OpsProject::jst.web::2.5"/>
   </server>
 </servers>

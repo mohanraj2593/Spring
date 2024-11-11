@@ -2,6 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Mohanraj\eclipse-workspace\HibernateWebApp\src\main\webapp\index.jsp"/>
+			<item value="C:\Users\Mohanraj\eclipse-workspace\OneToManyPRG2\src\main\java\com\hib\main\Main.java"/>
+			<item value="C:\Users\Mohanraj\eclipse-workspace\OneToManyPRG\src\main\java\com\hib\main\Main.java"/>
+			<item value="C:\Users\Mohanraj\eclipse-workspace\OneToOneBD\src\main\java\com\hib\entity\StudentDetails.java"/>
 			<item value="C:\Users\Mohanraj\eclipse-workspace\UpdatePwd\src\main\java\com\tap\acad\ResetPassword.java"/>
 			<item value="C:\Users\Mohanraj\eclipse-workspace\Login\src\main\webapp\Login.html"/>
 		</list>
@@ -46,12 +50,24 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.tap.emp"/>
+			<item value="com.ioc"/>
+			<item value="com.hib"/>
 			<item value="com.tap"/>
+			<item value="com.tap.onetomany"/>
+			<item value="com.tap.emp"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="IocAnnotation"/>
+			<item value="IocWithXml2"/>
+			<item value="IocWithXml1"/>
+			<item value="IOCWITHXML"/>
+			<item value="HibernateWebApp"/>
+			<item value="OneToManyPRG2"/>
+			<item value="OneToManyPRG"/>
+			<item value="OneToOneBD"/>
+			<item value="StudentHib"/>
 			<item value="Hibernate2"/>
 			<item value="Hibernate1"/>
 		</list>

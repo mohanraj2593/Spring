@@ -17,7 +17,7 @@ public class Main {
 //		hm.fetchOnId(1);
 //		hm.fetchOnEmail("ganesh1@gamil.com");
 //		hm.update(4, "sujay1@gmail.com");
-		hm.delete(9);
+		
 		
 		
 	}

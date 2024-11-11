@@ -1,7 +1,0 @@
-package com.tap.service;
-
-import com.tap.gov.Services;
-
-public class IndianArmy implements Services {
-
-}

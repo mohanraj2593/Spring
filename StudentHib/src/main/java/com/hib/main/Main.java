@@ -28,7 +28,7 @@ public static void main(String[] args) {
 	
 	
 	
-//	Student s =
+//	Student s = 
 //	session.get(Student.class, 52);
 //	System.out.println("Id: "+s.getSid());
 //	System.out.println("Name: "+s.getName());
@@ -48,7 +48,7 @@ public static void main(String[] args) {
 //	StudentDetails sd = new StudentDetails("BTM","Banglore",560067);
 //	s1.setStudentDetails(sd);
 //	
-//	t=session.beginTransaction();
+//	t=session.beginTransaction();	
 //	session.persist(s1);
 //	t.commit();
 //	System.out.println("Data Inserted");
